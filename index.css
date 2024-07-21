@@ -1,0 +1,73 @@
+figcaption {
+    
+    color: black;
+    font-style: italic;
+    
+    text-align:left;
+    margin-top: 50px;
+}
+figure {
+    
+    padding: 4px;
+    margin: auto;
+    height: 600px;
+    width: 400px;
+    box-shadow: 5px 5px 5px gray;
+    padding-top: 5px;
+    padding-left: 5px;
+    
+}
+.contain{
+    display: flex;
+    gap: 5px;
+    margin-top: 80px;
+
+}
+img{
+    height: 300px;
+    width: 220px;
+}
+button{
+    margin-top: 120px;
+    background-color:rgb(221, 139, 18);
+    color: white;
+    border: none;
+}
+.about{
+    border: 2px solid rgb(129, 4, 71);
+    margin-top: 5px;
+    color: crimson;
+    background-color: antiquewhite;
+
+}
+h2{
+    color:brown;
+}
+
+.add{
+    height:600px;
+    width: 100%;
+    padding-top: 50px ;
+}
+header{
+    
+    padding: 5px;
+    height: 40px;
+    text-align: center;
+    color: brown;
+    
+}
+ .why{
+    text-decoration: none;
+    color: rgb(233, 8, 8);
+   
+} 
+footer{
+    padding: 5px;
+    height: 40px;
+    text-align: center;
+    
+    
+    
+    
+}
